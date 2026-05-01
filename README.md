@@ -1,5 +1,5 @@
 **Movie Box Office and Ratings Analysis Dashboard (Excel)
-Project Overview******
+Project Overview**
 
 This project presents a Movie Box Office and Ratings Analysis Dashboard developed using Microsoft Excel. The dashboard is designed to analyze and visualize movie performance data, including box office collections, audience ratings, and genre-based trends. It provides clear and structured insights through interactive visualizations.
 
